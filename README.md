@@ -18,6 +18,10 @@ This project demonstrates a minimal text classification pipeline:
 
 ## Installation
 
+first check if python is install or not otherwise download the latest stable release
+```bash
+python --version
+
 Clone or download the project, then install dependencies:
 
 ```bash
